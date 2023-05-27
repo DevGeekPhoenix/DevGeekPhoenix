@@ -2,7 +2,7 @@
 
 <h3 align="left">I'm a 24 years old front-end developer who loves the JavaScript ecosystem. I develop myself by following the bests of the community and my goal is to become a front-end engineer. Do Digital, Stay Human ✌️</h3>
 
-- 🔭 I’m currently working on [Sarrafex Trading Platform](https://sarrafex.com/)
+- 🔭 I’m currently working on [Sarrafex Trading Platform](https://sarrafex.com/en)
 
 - 👯 I’m looking to collaborate on **contribute to open source projects**
 
