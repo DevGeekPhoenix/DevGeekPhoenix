@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=ADBAC7&center=true&vCenter=true&width=100%&lines=Hi+%F0%9F%91%8B%2C+I'm+Hosein+aka+%22Phoenix%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=ADBAC7&center=true&vCenter=true&width="100%"&lines=Hi+%F0%9F%91%8B%2C+I'm+Hosein+aka+%22Phoenix%22)](https://git.io/typing-svg)
 <h3 align="center">I'm a 24 years old front-end developer who loves the JavaScript ecosystem. I develop myself by following the bests of the community and my goal is to become a front-end engineer. Do Digital, Stay Human ✌️</h3>
 
 - 🔭 I’m currently working on [Sarrafex Trading Platform](https://sarrafex.com/)
