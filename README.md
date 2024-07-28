@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://t.me/HoseinZarrabi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="hoseinzarrabi" height="30" /></a>
 <a href="https://linkedin.com/in/hoseinzarrabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoseinzarrabi" height="30" width="40" /></a>
-<a href="https://twitter.com/hoseinzarrabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoseinzarrabi" height="30" width="40" /></a>
 </p>
 
 
