@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=5000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Hosein+aka,+%22Phoenix%22)](https://git.io/typing-svg)
 
-<h3 align="left">I'm a 24 years old developer who loves the JavaScript ecosystem. I develop myself by following the bests of the community. Do Digital, Stay Human ✌️</h3>
-
-- 🔭 I’m currently working on [Sarrafex Online Crypto Exchange Platform](https://sarrafex.com/en)
+<h3 align="left">I'm a 26 years old developer who loves the JavaScript ecosystem. I develop myself by following the bests of the community. Do Digital, Stay Human ✌️</h3>
 
 - 👯 I’m looking to collaborate on **contribute to open source projects**
 
