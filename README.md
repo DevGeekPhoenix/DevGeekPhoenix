@@ -26,7 +26,7 @@ I take products from empty repositories to production — web platforms, mobile 
   </a>
 </p>
 
-**Specialties** — micro frontends · design systems · multi-tenant services · offline-first mobile apps · monorepo architecture · performance optimization · large-scale migrations
+**Specialties**: micro frontends · design systems · multi-tenant services · offline-first mobile apps · monorepo architecture · performance optimization · large-scale migrations
 
 | | |
 |:--|:--|
